@@ -1,6 +1,6 @@
 ## Netflix Landing Page Clone
 
-This project is a responsive Netflix landing page clone built using HTML, CSS, and JavaScript.  
+This project is a responsive Netflix landing page clone built using HTML, CSS, and .  
 The goal of this project was to practice frontend development skills and recreate a modern UI inspired by Netflix.
 
 ### Features
